@@ -260,7 +260,7 @@ export default async function Home() {
       <ScrollIntoView hashName="#studio" offset="-90px" />
       <div className="text-center py-24 bg-[url('/home/fitness-background-3.jpg')] parallax-background">
         <div className="mx-auto max-w-md px-2">
-          <h2 className="title tracking-widest">THE STUDIO</h2>
+          <h2 className="title tracking-widest">CELERITY INTERNET FIBRA OPTICA</h2>
           <div className="pt-7 font-open-sans-condensed text-lg text-stone-300">
             {`We train in a modern and spacious facility, conveniently located in the heart of San Francisco.
             We have the equipment, facilities and expertise to take on clients of all ages and experience levels. Come by and check us out!`}
